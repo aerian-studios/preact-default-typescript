@@ -1,3 +1,5 @@
+Moved to [the official templates org](https://github.com/preactjs-templates/typescript). This version is deprecated.
+
 # Preact TypeScript starter project
 
 ## Documentation
@@ -11,7 +13,7 @@
 
 ```bash
 $ npm install -g preact-cli
-$ preact create aerian-studios/preact-default-typescript my-project
+$ preact create typescript my-project
 $ cd my-project
 $ npm install
 $ npm run dev
